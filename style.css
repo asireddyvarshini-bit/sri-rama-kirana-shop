@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#f4f7f6;
+    color:#333;
+}
+
+.header{
+    background:#2E7D32;
+    color:white;
+    text-align:center;
+    padding:25px 15px;
+}
+
+.header h1{
+    font-size:2rem;
+}
+
+.header p{
+    margin-top:8px;
+}
+
+.call-btn{
+    display:inline-block;
+    margin-top:15px;
+    padding:10
